@@ -1,7 +1,7 @@
 "use client";
 import React from "react";
 
-import { HeroParallax } from "./ui/hero-parallax";
+import { HeroParallax } from "@/app/components/ui/hero-parallax";
 
 export default function Header() {
   return <HeroParallax products={products} />;
