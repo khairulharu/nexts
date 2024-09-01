@@ -11,7 +11,7 @@ export const products = [
     title: "Moonbeam",
     link: "https://gomoonbeam.com",
     thumbnail:
-      "https://aceternity.com/images/products/thumbnails/new/moonbeam.png",
+      "/myfoto.jpg",
   },
   {
     title: "Cursor",

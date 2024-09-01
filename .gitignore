@@ -31,6 +31,9 @@ yarn-error.log*
 # vercel
 .vercel
 
+/myfoto.jpg
+/signature.jpg
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts
