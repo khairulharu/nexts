@@ -10,6 +10,9 @@ const nextConfig = {
                },
                {
                     hostname: 'assets.aceternity.com',
+               },
+               {
+                    hostname: 'cdn.pixabay.com',
                }
           ],
      },

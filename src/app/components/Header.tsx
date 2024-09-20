@@ -11,93 +11,93 @@ export const products = [
     title: "Moonbeam",
     link: "https://gomoonbeam.com",
     thumbnail:
-      "/myfoto.jpg",
+      "https://cdn.pixabay.com/photo/2021/08/19/09/17/poppies-6557536_1280.jpg",
   },
   {
     title: "Cursor",
     link: "https://cursor.so",
     thumbnail:
-      "https://aceternity.com/images/products/thumbnails/new/cursor.png",
+      "https://cdn.pixabay.com/photo/2024/09/03/18/03/desert-9019840_1280.jpg",
   },
   {
     title: "Rogue",
     link: "https://userogue.com",
     thumbnail:
-      "https://aceternity.com/images/products/thumbnails/new/rogue.png",
+      "https://cdn.pixabay.com/photo/2023/05/31/17/30/camera-8031914_960_720.jpg",
   },
 
   {
     title: "Editorially",
     link: "https://editorially.org",
     thumbnail:
-      "https://aceternity.com/images/products/thumbnails/new/editorially.png",
+      "https://cdn.pixabay.com/photo/2024/02/20/05/16/hummingbird-8584603_960_720.jpg",
   },
   {
     title: "Editrix AI",
     link: "https://editrix.ai",
     thumbnail:
-      "https://aceternity.com/images/products/thumbnails/new/editrix.png",
+      "https://cdn.pixabay.com/photo/2023/11/30/07/08/bread-8420931_960_720.jpg",
   },
   {
     title: "Pixel Perfect",
     link: "https://app.pixelperfect.quest",
     thumbnail:
-      "https://aceternity.com/images/products/thumbnails/new/pixelperfect.png",
+      "https://cdn.pixabay.com/photo/2024/08/06/10/43/wine-8949009_960_720.jpg",
   },
 
   {
     title: "Algochurn",
     link: "https://algochurn.com",
     thumbnail:
-      "https://aceternity.com/images/products/thumbnails/new/algochurn.png",
+      "https://cdn.pixabay.com/photo/2024/03/28/14/05/candle-8661042_960_720.jpg",
   },
   {
     title: "Aceternity UI",
     link: "https://ui.aceternity.com",
     thumbnail:
-      "https://aceternity.com/images/products/thumbnails/new/aceternityui.png",
+     "https://cdn.pixabay.com/photo/2024/09/01/14/35/western-diamondback-rattlesnake-9014179_960_720.jpg",
   },
   {
     title: "Tailwind Master Kit",
     link: "https://tailwindmasterkit.com",
     thumbnail:
-      "https://aceternity.com/images/products/thumbnails/new/tailwindmasterkit.png",
+      "https://cdn.pixabay.com/photo/2024/08/31/17/58/peacock-9012143_960_720.jpg",
   },
   {
     title: "SmartBridge",
     link: "https://smartbridgetech.com",
     thumbnail:
-      "https://aceternity.com/images/products/thumbnails/new/smartbridge.png",
+      "https://cdn.pixabay.com/photo/2024/09/02/15/06/vietnam-9017058_960_720.jpg",
   },
   {
     title: "Renderwork Studio",
     link: "https://renderwork.studio",
     thumbnail:
-      "https://aceternity.com/images/products/thumbnails/new/renderwork.png",
+      "https://cdn.pixabay.com/photo/2021/08/19/09/17/poppies-6557536_960_720.jpg",
   },
 
   {
     title: "Creme Digital",
     link: "https://cremedigital.com",
     thumbnail:
-      "https://aceternity.com/images/products/thumbnails/new/cremedigital.png",
+      "https://cdn.pixabay.com/photo/2024/09/03/18/03/desert-9019840_1280.jpg",
   },
   {
     title: "Golden Bells Academy",
     link: "https://goldenbellsacademy.com",
     thumbnail:
-      "https://aceternity.com/images/products/thumbnails/new/goldenbellsacademy.png",
+      "https://cdn.pixabay.com/photo/2023/05/31/17/30/camera-8031914_960_720.jpg",
   },
   {
     title: "Invoker Labs",
     link: "https://invoker.lol",
     thumbnail:
-      "https://aceternity.com/images/products/thumbnails/new/invoker.png",
+      "https://cdn.pixabay.com/photo/2024/04/09/22/28/trees-8686902_960_720.jpg",
   },
   {
     title: "E Free Invoice",
     link: "https://efreeinvoice.com",
     thumbnail:
-      "https://aceternity.com/images/products/thumbnails/new/efreeinvoice.png",
+      "https://cdn.pixabay.com/photo/2023/05/31/17/30/camera-8031914_960_720.jpg",
   },
 ];
