@@ -12,19 +12,19 @@ export function ProductsFocusCards() {
     },
     {
       title: "Sala behta hi jayega",
-      src: "https://cdn.pixabay.com/photo/2024/04/09/22/28/trees-8686902_960_720.jpg",
+      src: "https://cdn.pixabay.com/photo/2012/08/06/00/53/bridge-53769_1280.jpg",
     },
     {
       title: "Camping is for pros",
-      src: "https://cdn.pixabay.com/photo/2024/02/20/05/16/hummingbird-8584603_960_720.jpg",
+      src: "https://cdn.pixabay.com/photo/2016/09/21/04/46/barley-field-1684052_1280.jpg",
     },
     {
       title: "The road not taken",
-      src: "https://cdn.pixabay.com/photo/2024/08/23/12/53/water-lily-8991682_960_720.png",
+      src: "https://cdn.pixabay.com/photo/2015/07/09/22/45/tree-838667_1280.jpg",
     },
     {
       title: "The First Rule",
-      src: "https://cdn.pixabay.com/photo/2023/10/24/19/09/nevada-8338929_960_720.jpg",
+      src: "https://cdn.pixabay.com/photo/2013/07/25/01/31/forest-166733_1280.jpg",
     },
   ];
 
