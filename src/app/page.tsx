@@ -1,7 +1,7 @@
 import { CoverDemo } from "./components/CoverText";
 import Header from "./components/Header";
+import { ImagesSliderDemo } from "./components/ImagesSliderDemo";
 import { ProductsFocusCards } from "./components/Products";
-import { TextEffect } from "./components/TextEffect";
 
 export default function Home() {
   return (
@@ -9,6 +9,7 @@ export default function Home() {
     <Header/>
     <CoverDemo/>
     <ProductsFocusCards/>
+    <ImagesSliderDemo/>
     </>
   );
 }
